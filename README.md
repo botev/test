@@ -1,4 +1,4 @@
-![image-title-here](https://avatars1.githubusercontent.com/u/26064234?cropResize=100,100)
+![image-title-here](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png?cropResize=100,100)
 # DataCamp Template Course
 
 This an automatically generated <a href=https://www.datacamp.com target="_blank">DataCamp</a> course. You can start from these template files to create your own course.
