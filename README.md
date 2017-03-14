@@ -1,6 +1,9 @@
-![image-title-here](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png?cropResize=100,100)
-# DataCamp Template Course
-
+<h1> <img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png"
+  width="128"
+  height="128"
+  style="float:left;">
+    # Quite a long title, potentially going over several lines and on and on and on and on and on and on and on and on and on
+    
 This an automatically generated <a href=https://www.datacamp.com target="_blank">DataCamp</a> course. You can start from these template files to create your own course.
 
 Changes you make to this GitHub repository are automatically reflected in the linked DataCamp course. This means that you can enjoy all the advantages of version control, collaboration, issue handling ... of GitHub.
